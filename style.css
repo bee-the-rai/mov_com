@@ -1,0 +1,1204 @@
+/* Desktop - 2 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #232323;
+border-radius: 45px;
+
+
+/* Budapest BG */
+
+position: absolute;
+width: 1781px;
+height: 1056px;
+left: -116px;
+top: -32px;
+
+mix-blend-mode: normal;
+border-radius: 45px;
+
+
+/* Mask group */
+
+position: absolute;
+width: 1440px;
+height: 1056px;
+left: 4px;
+top: -16px;
+
+filter: blur(20px);
+
+
+/* Budapest */
+
+position: absolute;
+width: 1440px;
+height: 1056px;
+left: 4px;
+top: -16px;
+
+background: url(Screenshot 2022-12-29 at 4.14.png);
+box-shadow: 7px 8px 15px 5px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+
+/* Budapest BG */
+
+position: absolute;
+width: 3113px;
+height: 1056px;
+left: -1656px;
+top: -32px;
+
+background: url(Screenshot 2022-12-29 at 4.14.png);
+mix-blend-mode: normal;
+filter: blur(20px);
+border-radius: 45px;
+
+
+/* Frame 1 */
+
+position: relative;
+width: 1781px;
+height: 1056px;
+
+
+
+/* Back */
+
+position: absolute;
+width: 48px;
+height: 23px;
+left: 492px;
+top: 177px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* arrow_back_ios */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 471px;
+top: 179px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 471px;
+top: 179px;
+
+background: #D9D9D9;
+
+
+/* arrow_back_ios */
+
+position: absolute;
+left: 26.45%;
+right: 73.06%;
+top: 17.09%;
+bottom: 81.49%;
+
+background: #FFFFFF;
+
+
+/* Nav Arrow R */
+
+position: absolute;
+width: 37px;
+height: 59px;
+left: 471px;
+top: 644px;
+
+
+
+/* Nav Arrow Button R */
+
+position: absolute;
+width: 35px;
+height: 59px;
+left: 471px;
+top: 644px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 50px 5px 5px 50px;
+
+
+/* Nav Arrow R */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 484px;
+top: 661px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 484px;
+top: 661px;
+
+background: #D9D9D9;
+
+
+/* arrow_back_ios */
+
+position: absolute;
+left: 27.18%;
+right: 72.16%;
+top: 62.78%;
+bottom: 35.32%;
+
+background: #FFFFFF;
+
+
+/* Nav Arrow R */
+
+position: absolute;
+width: 37px;
+height: 59px;
+left: 1490px;
+top: 701px;
+
+transform: rotate(-180deg);
+
+
+/* Nav Arrow Button R */
+
+position: absolute;
+width: 35px;
+height: 59px;
+left: 1490px;
+top: 701px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 50px 5px 5px 50px;
+transform: rotate(-180deg);
+
+
+/* Nav Arrow R */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1477px;
+top: 684px;
+
+transform: rotate(-180deg);
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1477px;
+top: 684px;
+
+background: #D9D9D9;
+transform: rotate(-180deg);
+
+
+/* arrow_back_ios */
+
+position: absolute;
+left: 82.93%;
+right: 16.41%;
+top: 64.58%;
+bottom: 33.52%;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Scrollbar */
+
+position: absolute;
+width: 4px;
+height: 83px;
+left: 413px;
+top: 291px;
+
+background: #D9D9D9;
+opacity: 0.6;
+border-radius: 110px;
+
+
+/* PAGE TITLE */
+
+position: absolute;
+width: 675px;
+height: 74px;
+left: 471px;
+top: 239px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+
+color: #FFFFFF;
+
+
+
+/* NAV BAR */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 116px;
+top: 32px;
+
+
+
+/* NAV */
+
+position: absolute;
+width: 289px;
+height: 1024px;
+left: 116px;
+top: 32px;
+
+background: rgba(37, 37, 37, 0.72);
+border-radius: 45px 0px 0px 45px;
+
+
+/* NAV */
+
+position: absolute;
+width: 119px;
+height: 1151px;
+left: 1556px;
+top: 32px;
+
+background: rgba(37, 37, 37, 0.72);
+border-radius: 45px 0px 0px 0px;
+transform: rotate(90deg);
+
+
+/* Collections */
+
+position: absolute;
+width: 208px;
+height: 74px;
+left: 187px;
+top: 443px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Home */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 190px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Series */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Film */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 287px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Categories */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 338px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Favourite */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Account */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Settings */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 187px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 226px;
+height: 0px;
+left: 149px;
+top: 151px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 226px;
+height: 0px;
+left: 149px;
+top: 506px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 226px;
+height: 0px;
+left: 149px;
+top: 962px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* home */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 188px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 188px;
+
+background: #D9D9D9;
+
+
+/* home */
+
+position: absolute;
+left: 8.59%;
+right: 90.51%;
+top: 18.09%;
+bottom: 80.21%;
+
+background: #FFFFFF;
+
+
+/* desktop_windows */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 236px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 236px;
+
+background: #D9D9D9;
+
+
+/* desktop_windows */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 22.63%;
+bottom: 75.66%;
+
+background: #FFFFFF;
+
+
+/* movie */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 286px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 286px;
+
+background: #D9D9D9;
+
+
+/* movie */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 27.46%;
+bottom: 71.02%;
+
+background: #FFFFFF;
+
+
+/* animation */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 443px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 443px;
+
+background: #D9D9D9;
+
+
+/* animation */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 42.14%;
+bottom: 55.97%;
+
+background: #FFFFFF;
+
+
+/* favorite */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 393px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 393px;
+
+background: #D9D9D9;
+
+
+/* favorite */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 37.47%;
+bottom: 60.8%;
+
+background: #FFFFFF;
+
+
+/* theaters */
+
+position: absolute;
+width: 42.06px;
+height: 42.06px;
+left: 165px;
+top: 74px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 42.06px;
+height: 42.06px;
+left: 165px;
+top: 74px;
+
+background: #D9D9D9;
+
+
+/* theaters */
+
+position: absolute;
+left: 9.71%;
+right: 88.82%;
+top: 7.59%;
+bottom: 89.59%;
+
+background: #FFFFFF;
+
+
+/* mov com */
+
+position: absolute;
+width: 52px;
+height: 44px;
+left: 206px;
+top: 77px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* account_circle */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 542px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 542px;
+
+background: #D9D9D9;
+
+
+/* account_circle */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 51.52%;
+bottom: 46.59%;
+
+background: #FFFFFF;
+
+
+/* settings */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 592px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 592px;
+
+background: #D9D9D9;
+
+
+/* settings */
+
+position: absolute;
+left: 8.48%;
+right: 90.4%;
+top: 56.25%;
+bottom: 41.86%;
+
+background: #FFFFFF;
+
+
+/* logout */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 159px;
+top: 1001px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 159px;
+top: 1001px;
+
+background: #D9D9D9;
+
+
+/* logout */
+
+position: absolute;
+left: 9.1%;
+right: 89.89%;
+top: 95.08%;
+bottom: 3.22%;
+
+background: #FFFFFF;
+
+
+/* Log Out */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 197px;
+top: 1001px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* SEARCH BAR */
+
+position: absolute;
+width: 386.31px;
+height: 27px;
+left: 471px;
+top: 78px;
+
+
+
+/* SEARCH */
+
+position: absolute;
+width: 386.31px;
+height: 27px;
+left: 471px;
+top: 78px;
+
+background: rgba(255, 255, 255, 0.15);
+border-radius: 85px;
+
+
+/* search */
+
+position: absolute;
+width: 15.24px;
+height: 15.24px;
+left: 356.98px;
+top: 6px;
+
+
+
+/* search */
+
+position: absolute;
+left: 92.41%;
+right: 3.65%;
+top: 22.22%;
+bottom: 21.34%;
+
+background: rgba(255, 255, 255, 0.47);
+
+
+/* Search.. */
+
+position: absolute;
+width: 55px;
+height: 16px;
+left: 15px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: rgba(255, 255, 255, 0.55);
+
+
+
+/* BeeRai */
+
+position: absolute;
+width: 59px;
+height: 24px;
+left: 1436px;
+top: 89px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+
+
+/* account_circle */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1402px;
+top: 85px;
+
+opacity: 0.5;
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1402px;
+top: 85px;
+
+background: #D9D9D9;
+
+
+/* account_circle */
+
+position: absolute;
+left: 78.83%;
+right: 20.04%;
+top: 8.24%;
+bottom: 89.87%;
+
+background: #FFFFFF;
+
+
+/* expand_more */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1489px;
+top: 86px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1489px;
+top: 86px;
+
+background: #D9D9D9;
+
+
+/* expand_more */
+
+position: absolute;
+left: 83.94%;
+right: 15.38%;
+top: 8.9%;
+bottom: 90.4%;
+
+background: rgba(255, 255, 255, 0.5);
+
+
+/* category */
+
+position: absolute;
+width: 25.95px;
+height: 25.95px;
+left: 148px;
+top: 335px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 25.95px;
+height: 25.95px;
+left: 148px;
+top: 335px;
+
+background: #D9D9D9;
+
+
+/* category */
+
+position: absolute;
+left: 8.51%;
+right: 90.38%;
+top: 32%;
+bottom: 66.06%;
+
+background: #FFFFFF;
+
+
+/* CARD */
+
+position: absolute;
+width: 880px;
+height: 670px;
+left: 541px;
+top: 331px;
+
+background: #414040;
+border-radius: 20px;
+
+
+/* BUDA CARD */
+
+position: absolute;
+width: 881px;
+height: 483.12px;
+left: 0px;
+top: 0px;
+
+background: url(Screenshot 2022-12-29 at 4.14.png);
+box-shadow: 7px 8px 15px 5px rgba(0, 0, 0, 0.1);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 881px;
+height: 319px;
+left: 0px;
+top: 351px;
+
+background: linear-gradient(360deg, #222222 66.61%, rgba(0, 0, 0, 0) 98.01%);
+
+
+/* Movie Info */
+
+position: absolute;
+width: 706px;
+height: 152.77px;
+left: 106px;
+top: 483px;
+
+
+
+/* The Grand Budapest Hotel 2014 */
+
+position: absolute;
+width: 536px;
+height: 74px;
+left: 106px;
+top: 483px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge. */
+
+position: absolute;
+width: 706px;
+height: 56px;
+left: 106px;
+top: 532px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* Play */
+
+position: absolute;
+width: 48px;
+height: 23px;
+left: 140px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* Favourite */
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 232px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* Rate */
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 367px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+
+/* favorite */
+
+position: absolute;
+width: 25.77px;
+height: 25.77px;
+left: 199px;
+top: 610px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 25.77px;
+height: 25.77px;
+left: 199px;
+top: 610px;
+
+background: #D9D9D9;
+
+
+/* favorite */
+
+position: absolute;
+left: 22.86%;
+right: 74.7%;
+top: 91.47%;
+bottom: 5.59%;
+
+background: #FFFFFF;
+
+
+/* play_circle */
+
+position: absolute;
+width: 26.84px;
+height: 26.84px;
+left: 106px;
+top: 607px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 26.84px;
+height: 26.84px;
+left: 106px;
+top: 607px;
+
+background: #D9D9D9;
+
+
+/* play_circle */
+
+position: absolute;
+left: 12.3%;
+right: 85.16%;
+top: 90.93%;
+bottom: 5.73%;
+
+background: #FFFFFF;
+
+
+/* thumb_up */
+
+position: absolute;
+width: 25.77px;
+height: 25.77px;
+left: 332px;
+top: 608px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 25.77px;
+height: 25.77px;
+left: 332px;
+top: 608px;
+
+background: #D9D9D9;
+
+
+/* thumb_up */
+
+position: absolute;
+left: 37.97%;
+right: 59.47%;
+top: 90.91%;
+bottom: 5.89%;
+
+background: #FFFFFF;
