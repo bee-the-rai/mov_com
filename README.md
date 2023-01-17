@@ -1,24 +1,52 @@
-# mov_com
-A Movie Streaming Site 
+# 🎬  Mov Com
+A Movie Streaming Site by Sabina Rai (2023)
 
-# ABOUT 
-# Hi there! My name is Sabina Rai. I have a strong background in visual communication and design and have recently taken on my journey in front-end development. 
+## ⚡️ About: 
+Hi there! My name is `Sabina Rai.` I have a strong background in visual communication and design and have recently taken on my journey in front-end development. 
 
-## This is my first project fully built by myself to showcase the skills I have learnt. 
-## See below the details of my process and progress - I hope you enjoy it! 
+This is my first project `fully built by myself` to showcase the skills I have learnt. 
 
-# PROJECT INTRO // DESCRIPTION 
-## I thought about making a movie streaming site after using Disney + for the first time a few months ago. Despite being one of the most popular streaming sites there were elements I felt were wrong and even missing from the UX and UI. Comparing to Netflix, which has many more years on Disney + (Netflix lanuched in 2007, a whole 12 years before Disney +'s soft launch in Sept 2019 and hard launch in Nov 2019), I was still unimpressed by Disney's platform. One (of many) noticeable flaws is there is no "previous episode" navigation when watching a series. Instead a user would have to skip to the end of the current episode and go back to "view series info" to navigate to a previous episode.. Since noticing something so basic missing I began to notice more issues, which led me to creating Mov Com. 
+See below the details of my process and progress - enjoy! 
 
-## Mov Com is not intended to be fully functional, but a demonstration of what I feel is vital in providing a good user experience. More importantly my UI design style is very striped back, clean and simple, and it was important to me that this project reflects that as well. 
+## 📝 Project Info & Description: 
+I thought about making a movie streaming site after using `Disney+` for the first time a few months ago. Despite being one of the most popular streaming sites there were elements I felt were wrong and even missing from the `UX and UI.` Comparing to `Netflix,` which does have many more years on Disney+ (Netflix lanuched in 2007, a whole 12 years before Disney+'s launch in 2019), I was still unimpressed by Disney's UX. 
 
-# AIMS // GOALS
+One (of many) flaws is there is no "previous episode" navigation when watching a series. Instead a user must skip to the end of the current episode to the credit page and then go back to "view series info" to order to navigate to a previous episode.. Noticing a basic element such as this missing it inspired my enthusiasm to create this mini project; `Mov Com.` 
 
-## Create a simple movie streaming platform combining minimal design with streamlined functionality. 
+`Please note:` Mov Com is not intended to be fully functional, but a demonstration of what I have recently learned and what I feel provides good user experience.  
 
-##
+## 🎯 Project Aim:
 
-## If you are interested in seeing my UX/UI work have a look at my Instagram and Behance profiles! 
+* Build a simple movie streaming platform combining minimal design with `streamlined functionality.` 
 
-## Instagram: beejanerai
-## Behance: Sabina Rai 
+* Focus on creating a clean and `minimal interface.` 
+
+* Demonstrate my `new skills!` 
+
+## 🚀 Process Breakdown:
+
+* Rough hand drawn wireframes to explore general layout.
+* Use Miro App to fine tune wireframes 
+* Use Figma to build low fidelity prototype 
+* Use Figma to build hi fidelity prototypes of core elements
+* Use Figma code inspector to gather CSS style info
+* Use Figma code inspector to gather grids, guides & measurements. 
+* Prepare images & text content 
+* Organize all files ready for development 
+
+# ✨Thanks for viewing!✨
+Thank you for stopping by, see below for ways you can get in contact for collaborations or if you just want to be nosy!
+
+## 🤝 Contact & Socials
+
+For my general work: `sabinarai.oi`
+
+🧑‍💻 For `development` projects then you can find me on Github and Stackoverflow! 
+
+* GitHub: `bee-the-rai`
+* Stackoverflow: `Sabina Rai`
+
+💻 For `design` projects have a look at my Instagram and Behance profiles! 
+
+* Instagram: `@beejanerai`
+* Behance: `Sabina Rai`
