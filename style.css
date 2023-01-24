@@ -1,11 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
 /* PAGE TITLE */
 .header {
-    position: absolute;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    color: #270e0e;
+    font-size:35px ;
+    font-family: 'inter';
+    font-weight: medium;
+    color: #ffffff;
+    margin-top:70px;
+    margin-left:100px;
     }
+
+    button {
+        font-family:'inter';
+        font-weight:bold ;
+        border: 1px solid blueviolet;
+        border-radius: 5px;
+        height: 50px;
+        width: 100px;
+        font-size: 20px;
+      }
+      
+      body {
+        background-color: #252525;
+      }
+
 
 /* Desktop - 2 */
 
